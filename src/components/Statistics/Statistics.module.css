@@ -1,0 +1,15 @@
+.statistics{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.statistics__list {
+    list-style: none;
+    text-align: left;
+}
+
+.statistics__item {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
